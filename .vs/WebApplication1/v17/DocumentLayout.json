@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Metis\\source\\repos\\WebApplication1\\Migrations\\20251027123607_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251027123607_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\dto\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:dto\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Metis\\source\\repos\\WebApplication1\\Migrations\\20251014112859_Create Tables category,transaction,user and book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251014112859_Create Tables category,transaction,user and book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\data\\firstapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:data\\firstapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Metis\\source\\repos\\WebApplication1\\Migrations\\20251014110209_Create Tables of category,user,transction and update book update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251014110209_Create Tables of category,user,transction and update book update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Metis\\source\\repos\\WebApplication1\\Migrations\\20251014104713_Create Tables of category,user,transction and update book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251014104713_Create Tables of category,user,transction and update book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\migrations\\20251014113413_create tables category,transaction,user and book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:migrations\\20251014113413_create tables category,transaction,user and book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|c:\\users\\metis\\source\\repos\\webapplication1\\migrations\\20251016093020_add title in tranaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3E230-7713-44B6-9E55-3DEB89E079D9}|WebApplication1.csproj|solutionrelative:migrations\\20251016093020_add title in tranaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251027123607_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Migrations\\20251027123607_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251027123607_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Migrations\\20251027123607_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20251027123607_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:36:07.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T12:30:59.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\DTO\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "DTO\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\DTO\\CategoryDto.cs",
+              "RelativeToolTip": "DTO\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:50:26.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAArwH0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T04:54:40.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:48:42.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:32:53.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "Mapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:07:14.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:35:43.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\DTO\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "DTO\\TransactionDto.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\DTO\\TransactionDto.cs",
+              "RelativeToolTip": "DTO\\TransactionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T08:03:00.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwDkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:49:26.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20251016093020_add title in tranaction.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Migrations\\20251016093020_add title in tranaction.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251016093020_add title in tranaction.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Migrations\\20251016093020_add title in tranaction.cs",
+              "RelativeToolTip": "Migrations\\20251016093020_add title in tranaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T09:30:20.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\DTO\\BookDto.cs",
+              "RelativeDocumentMoniker": "DTO\\BookDto.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\DTO\\BookDto.cs",
+              "RelativeToolTip": "DTO\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:00:27.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\DTO\\UserDto.cs",
+              "RelativeToolTip": "DTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T04:49:00.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:45:13.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAADAFUHDSd0uwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T07:43:38.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:12:46.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:52:22.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAABRwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T07:36:22.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20251014113413_Create Tables category,transaction,user and book.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Migrations\\20251014113413_Create Tables category,transaction,user and book.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251014113413_Create Tables category,transaction,user and book.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Migrations\\20251014113413_Create Tables category,transaction,user and book.cs",
+              "RelativeToolTip": "Migrations\\20251014113413_Create Tables category,transaction,user and book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:34:13.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FirstAPIContext.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Data\\FirstAPIContext.cs",
+              "RelativeDocumentMoniker": "Data\\FirstAPIContext.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Data\\FirstAPIContext.cs",
+              "RelativeToolTip": "Data\\FirstAPIContext.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T06:15:08.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20251014112859_Create Tables category,transaction,user and book.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Migrations\\20251014112859_Create Tables category,transaction,user and book.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251014112859_Create Tables category,transaction,user and book.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Migrations\\20251014112859_Create Tables category,transaction,user and book.cs",
+              "RelativeToolTip": "Migrations\\20251014112859_Create Tables category,transaction,user and book.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:28:59.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20251014110209_Create Tables of category,user,transction and update book update.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Migrations\\20251014110209_Create Tables of category,user,transction and update book update.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251014110209_Create Tables of category,user,transction and update book update.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Migrations\\20251014110209_Create Tables of category,user,transction and update book update.cs",
+              "RelativeToolTip": "Migrations\\20251014110209_Create Tables of category,user,transction and update book update.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:02:09.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20251014104713_Create Tables of category,user,transction and update book.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Migrations\\20251014104713_Create Tables of category,user,transction and update book.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251014104713_Create Tables of category,user,transction and update book.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Migrations\\20251014104713_Create Tables of category,user,transction and update book.cs",
+              "RelativeToolTip": "Migrations\\20251014104713_Create Tables of category,user,transction and update book.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:47:13.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WebApplication1.http",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\WebApplication1.http",
+              "RelativeDocumentMoniker": "WebApplication1.http",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\WebApplication1.http",
+              "RelativeToolTip": "WebApplication1.http",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-14T07:51:11.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T05:56:36.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T05:53:47.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T09:32:39.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WebApplication1",
+              "DocumentMoniker": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\Metis\\source\\repos\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-14T05:53:17.916Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

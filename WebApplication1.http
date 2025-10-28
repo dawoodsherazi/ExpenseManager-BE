@@ -1,0 +1,37 @@
+ @BaseUrl = http://localhost:5121
+
+GET {{BaseUrl}}/weatherforecast/
+Accept: application/json
+
+####
+Get {{BaseUrl}}/api/books
+Accept: appilcation/json
+
+####
+GET {{BaseUrl}}/api/books/3
+Accept: application/json
+
+####
+POST {{BaseUrl}}/api/books
+Content-Type : application/json
+{
+  "title" : "new book",
+  "author" : "dawood sherazi",
+  "description" : "This is new book",
+  "yearPublished" : 2024
+}
+
+####
+PUT {{BaseUrl}}/api/books/4
+Content-Type :application/json
+{
+  "id" : 4,
+  "title" : "new book updated",
+  "author" : "dawood sherazi updated",
+  "description" : "This is new book updated",
+  "yearPublished" : 2025
+}
+
+####
+DELETE {{BaseUrl}}/api/books/4
+Accept: application/json
